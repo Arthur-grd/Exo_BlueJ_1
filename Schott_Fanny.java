@@ -2,13 +2,14 @@
 /**
  * Décrivez votre classe Schott_Fanny ici.
  *
- * @author (votre nom)
+ * @author Fanny Schott
  * @version (un numéro de version ou une date)
  */
 public class Schott_Fanny
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     private int x;
+    private int y;
 
     /**
      * Constructeur d'objets de classe Schott_Fanny
@@ -17,6 +18,7 @@ public class Schott_Fanny
     {
         // initialisation des variables d'instance
         x = 0;
+        y = 1;
     }
 
     /**
