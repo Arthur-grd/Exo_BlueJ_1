@@ -9,6 +9,7 @@ public class Schott_Fanny
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     private int x;
+    private String bonjour= "";
 
     /**
      * Constructeur d'objets de classe Schott_Fanny
