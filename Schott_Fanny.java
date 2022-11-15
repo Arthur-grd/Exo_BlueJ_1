@@ -22,7 +22,7 @@ public class Schott_Fanny
     {
         // initialisation des variables d'instance
         x = 0;
-        y = 1;
+        y = 0;
     }
 
     /**
